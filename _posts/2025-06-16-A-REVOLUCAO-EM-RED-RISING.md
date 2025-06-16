@@ -65,5 +65,4 @@ Cabe a cada um de nós manter viva a chama da verdadeira liberdade, igualdade e 
 Quanto ao livro, recomendo a leitura, pois nos faz refletir sobre a opressão humana e sua busca por liberdade, nos faz refletir sobre como um sistema opressor não possui limites e que, se não agirmos, os "Ouros" contemporâneos continuarão oprimindo os baixa-cores do proletariado. 
 
 
-#Literatura #Reflexões
-
+ 
