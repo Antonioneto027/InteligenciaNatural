@@ -1,5 +1,5 @@
 ---
-title: As Minhas Percepçõees Até Aqui Sobre o Meu Diagnóstico Tardio de Autismo
+title: As Minhas Percepções Até Aqui Sobre o Meu Diagnóstico Tardio de Autismo
 date: 2025-06-19 13:16:00 +/-TTTT
 categories: [AUTISMO]
 tags: [reflexoes, autismo]     # TAG names should always be lowercase
