@@ -1,0 +1,25 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ],
+  "id": "https://inteligencianatural.space/actor",
+  "type": "Person",
+  "preferredUsername": "antonio",
+  "name": "Antônio Neto",
+  "summary": "Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio Nunes Neto",
+  "inbox": "https://inteligencianatural.space/inbox",
+  "outbox": "https://inteligencianatural.space/outbox",
+  "followers": "https://inteligencianatural.space/followers",
+  "publicKey": {
+    "id": "https://inteligencianatural.space/actor#main-key",
+    "owner": "https://inteligencianatural.space/actor",
+    "publicKeyPem": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy0adkUKw++1Wuaczekcf
++FvRtMq6WhFGd06fXQIdGOoG6dv4jMuQLxDi6OJ/DPKvN3P+G0qmj0WfFcKRb6vU
+sSYGfFqVHINI08mSF1YI0D+SxqDBP0vpj86RzqzxqGgcNcGhrqZB0Wvl3MK32mwn
+YYZsZcnkd0dTMt02NJtdhlsIN8tYm7dwLaSCpeoh2CrmvgSSX5Pcly3EyhGoLO2/
+3aFDUxJz4iR0C6aTrrugO+t7SpVgpw0MFwF6QvmVyP4ObOTTDA/Zgs3T7rXQwfOQ
+ujOtTPogAChiDwzJxtncRkHDAUdLxbvMTbLfQfbMuSzKquYvEm9VjeXn0Ehm/+xD
+mwIDAQAB"
+  }
+}
