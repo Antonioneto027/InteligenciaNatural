@@ -6,7 +6,7 @@ date: 2025-07-03 10:45:00 +/-TTTT
 
 categories: [REFLEXOES]
 
-tags: [reflexoes, sociedade, critica] # TAG names should always be lowercase
+tags: [sociedade, critica] # TAG names should always be lowercase
 
 ---
 

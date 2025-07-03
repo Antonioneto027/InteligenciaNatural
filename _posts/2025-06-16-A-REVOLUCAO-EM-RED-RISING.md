@@ -1,8 +1,8 @@
 ---
 title: A Revolução em Red Rising
 date: 2025-06-16 16:55:00 +/-TTTT
-categories: [LITERATURA, REFLEXOES]
-tags: [reflexoes, livros, literatura]     # TAG names should always be lowercase
+categories: [LITERATURA]
+tags: [livros, literatura]     # TAG names should always be lowercase
 ---
 
  
