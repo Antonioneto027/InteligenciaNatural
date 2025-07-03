@@ -27,7 +27,7 @@ A internet criou um fenômeno que às vezes se assemelha muito a uma seita, onde
 
   
 
-E a fé sega domina as redes, aumentando cada vez mais o séquito de seguidores cuja crença muitas vezes extrapola o bom senso.
+E a fé cega domina as redes, aumentando cada vez mais o séquito de seguidores cuja crença muitas vezes extrapola o bom senso.
 
   
 
