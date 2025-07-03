@@ -72,5 +72,5 @@ Refletir incomoda, mas é preciso.
   
   
 
-*Este texto é uma opinião minha e não me considero, em hipótese alguma, a voz da verdade. As minhas postagem possuem única e exclusivamente a intenção de se fazer refletir sobre o nosso mundo, ideias e sociedade.**
+*Este texto é uma opinião minha e não me considero, em hipótese alguma, a voz da verdade. As minhas postagem possuem única e exclusivamente a intenção de se fazer refletir sobre o nosso mundo, ideias e sociedade.*
 
