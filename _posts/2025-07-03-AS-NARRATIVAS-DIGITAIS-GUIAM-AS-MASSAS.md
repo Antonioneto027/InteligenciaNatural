@@ -1,4 +1,3 @@
-
 ---
 
 title: As Narrativas Digitais Guiam as Massas
