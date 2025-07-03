@@ -39,7 +39,7 @@ Parafraseando Ray Bradbury, no livro Fahrenheit 451 - obra essa que chega a espa
 
   
 
-Ontem eu li um post no blog do [Felipe Siles](https://blog.ayom.media/felipe-siles/brasil-e-um-dos-paises-que-mais-passa-tempo-nas-telas-porque-a-vida-real-aqui-e) em que faz uma análise do quanto tem sido insuportável viver no Brasil. Não posso discordar menos!
+Ontem eu li um post no blog do [Felipe Siles](https://blog.ayom.media/felipe-siles/brasil-e-um-dos-paises-que-mais-passa-tempo-nas-telas-porque-a-vida-real-aqui-e) em que faz uma análise do quanto tem sido insuportável viver no Brasil. Não posso concordar menos!
 
   
 
