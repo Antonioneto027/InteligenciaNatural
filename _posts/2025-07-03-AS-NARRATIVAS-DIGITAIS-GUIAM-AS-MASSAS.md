@@ -35,7 +35,7 @@ Parafraseando Ray Randbury, no livro Fahrenheit 451 - obra essa que chega a espa
 
   
 
-> Se não quiser um homem politicamente infeliz, não lhe dê os dois lados de uma questão para resolver; dê-lhe apenas um. Melhor ainda, não lhe dê nenhum. [...] Se o >governo é ineficiente, déspotico e ávido > por impostos, melhor >que ele seja tudo isso do que as pessoas se preocuparem com isso.
+> Se não quiser um homem politicamente infeliz, não lhe dê os dois lados de uma questão para resolver; dê-lhe apenas um. Melhor ainda, não lhe dê nenhum. [...] Se o governo é ineficiente, déspotico e ávido  por impostos, melhor que ele seja tudo isso do que as pessoas se preocuparem com isso.
 
   
 
