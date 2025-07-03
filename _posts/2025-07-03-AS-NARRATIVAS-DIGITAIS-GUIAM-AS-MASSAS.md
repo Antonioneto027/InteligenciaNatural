@@ -31,7 +31,7 @@ E a fé sega domina as redes, aumentando cada vez mais o séquito de seguidores 
 
   
 
-Parafraseando Ray Randbury, no livro Fahrenheit 451 - obra essa que chega a espantar de tão atual:
+Parafraseando Ray Bradbury, no livro Fahrenheit 451 - obra essa que chega a espantar de tão atual:
 
   
 
