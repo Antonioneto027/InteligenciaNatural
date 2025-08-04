@@ -17,7 +17,7 @@ description: >-
 
 # URL e domínio
 url: "https://www.inteligencianatural.space"
-baseurl: ""  # Mantém vazio pois está na raiz do domínio
+baseurl: "" # Mantém vazio pois está na raiz do domínio
 
 # GitHub settings
 github:
@@ -33,7 +33,6 @@ social:
   links:
     - https://bolha.us/@desconectado
     - https://github.com/Antonioneto027
-    - https://www.linkedin.com/in/antonioasdev/
 
 # =============================
 # 🔍 VERIFICAÇÃO DE WEBMASTERS
@@ -87,7 +86,7 @@ pageviews:
 cdn: https://cdn.jsdelivr.net/gh/antonioneto027/InteligenciaNatural@main
 
 # Avatar na sidebar
-avatar: /assets/138225195.jpg
+avatar:
 
 # Imagem para preview social (Open Graph)
 social_preview_image:
@@ -216,6 +215,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-    
+
 include:
   - .well-known
