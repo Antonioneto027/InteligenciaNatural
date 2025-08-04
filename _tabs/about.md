@@ -4,13 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
- 
 
-Oi, me chamo Antônio Nunes Neto, seja bem vindx ao meu espaço na internet.
-
-
-![Eu](https://avatars.githubusercontent.com/u/138225195?s=400&u=73d4ed30d9a6f38dcd24cb59a953439d048352ff&v=4)
-
+Oi, sou Antonio e seja bem vindes ao meu espaço na internet.
 
 Sou mineiro, nascido em uma pequena cidade do interior de MG no ano de 1997 - comecei a capinar o lote da geração Z.
 
