@@ -1,4 +1,3 @@
- 
 ---
 
 title: Informações Básicas Sobre o Transtorno do Espectro Autista em Adultos
