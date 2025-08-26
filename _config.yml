@@ -13,7 +13,7 @@ timezone: America/Sao_Paulo
 title: Inteligência Natural
 tagline: Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio
 description: >-
-  Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio  
+  Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio
 
 # URL e domínio
 url: "https://www.inteligencianatural.space"
@@ -86,7 +86,7 @@ pageviews:
 cdn: https://cdn.jsdelivr.net/gh/antonioneto027/InteligenciaNatural@main
 
 # Avatar na sidebar
-avatar: ../assets/lib/138225195.jpg
+avatar: /workspaces/InteligenciaNatural/assets/lib/138225195.jpg
 
 # Imagem para preview social (Open Graph)
 social_preview_image:
