@@ -2,11 +2,11 @@
 
 title: Informações Básicas Sobre o Transtorno do Espectro Autista em Adultos
 
-date: 2025-08-26 15:45:00 +/-TTTT
+date: 2025-08-26 16:10:00 +/-TTTT
 
-categories: [Educação]
+categories: [Autismo]
 
-tags: [autismo]
+tags: [educação]
 
 ---
 
