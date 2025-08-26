@@ -11,9 +11,9 @@ timezone: America/Sao_Paulo
 
 # SEO e informações do site
 title: Inteligência Natural
-tagline: Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio Nunes Neto
+tagline: Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio
 description: >-
-  Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio Nunes Neto
+  Meu espaço na internet para disseminação de cultura, vivências, opiniões e literatura - Por Antonio  
 
 # URL e domínio
 url: "https://www.inteligencianatural.space"
@@ -86,7 +86,7 @@ pageviews:
 cdn: https://cdn.jsdelivr.net/gh/antonioneto027/InteligenciaNatural@main
 
 # Avatar na sidebar
-avatar:
+avatar: ../assets/lib/138225195.jpg
 
 # Imagem para preview social (Open Graph)
 social_preview_image:
