@@ -14,7 +14,7 @@ tags: [educação]
 
 Em hipótese alguma diga a um autista que ele "não parece autista". Isso é falta de educação e demonstra desconhecimento sobre o assunto.
 
-![Autismo](https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F15%2FAutism-PNG-Photos.png&sp=1756233731Te480c49d642d15f65f72f16fa16a7caf6ab8bbafd317837930662857448b1886)
+![Autismo](https://i.ibb.co/GQHLbHhT/Screenshot-From-2025-09-27-10-46-26.png)
 
 # 1. O que é o Transtorno do Espectro Autista (TEA)?
 
